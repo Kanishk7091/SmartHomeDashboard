@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870781374121",
+    "project_id": "smarthomedashboard-e284b",
+    "storage_bucket": "smarthomedashboard-e284b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870781374121:android:5b8405b5b42dff4ec6e3b8",
+        "android_client_info": {
+          "package_name": "com.example.smarthomedashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMi8dMmh0Kox87uMjlaS6cIgIpBbpciZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
